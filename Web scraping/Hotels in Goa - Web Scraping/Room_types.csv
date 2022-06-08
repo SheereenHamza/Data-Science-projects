@@ -1,477 +1,341 @@
 hotel_name,room_type,bed_type,max_occupancy_adults,max_occupancy_children
-Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
-Casa Aluizio,Suite with Garden View,1 double bed,2,1
-Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
-Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
-The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
-The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
+JM Vista Suites,Junior Suite,1 double bed,2,1
+III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
+Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
 Siolim Holiday Apartments,One-Bedroom Apartment,Bedroom 1:   2 single beds   and  1 large double bed      Living room:   1 sofa bed,5,2
 Siolim Holiday Apartments,Studio Apartment,2 single beds   and  1 large double bed,4,2
 Siolim Holiday Apartments,Superior Apartment,Bedroom 1:   1 single bed   and  1 extra-large double bed      Living room:   1 sofa bed,2,1
 Siolim Holiday Apartments,Two-Bedroom Villa,Bedroom 1:   2 extra-large double beds      Bedroom 2:   2 extra-large double beds      Living room:   1 sofa bed      Living room:   1 sofa bed,8,4
-Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
-Candolim Glitter Sand,Budget Triple Room,1 double bed   and    2 futon beds,3,2
-Candolim Glitter Sand,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,8,4
-Candolim Glitter Sand,One-Bedroom Apartment,Bedroom 1:   1 large double bed   and  4 futon beds     Living room:   1 sofa bed,5,2
-Candolim Glitter Sand,Family Room with Balcony,1 large double bed   and    3 futon beds,4,2
-Candolim Glitter Sand,Quadruple Room with Balcony,1 large double bed   and    2 futon beds,4,2
+The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
+The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
+juSTa Morjim Beach Resort Goa,Superior King Room ,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Double Room,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Deluxe Room ,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Suite,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,0
+Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
+Casa Aluizio,Suite with Garden View,1 double bed,2,1
+Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
+Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
+Alvorada Resort Goa,Superior Double or Twin Room with Pool View,1 large double bed,2,0
+Alvorada Resort Goa,Superior Double or Twin Room with Terrace,1 extra-large double bed,2,0
 U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Double Room,1 double bed,2,0
 U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Bed in 4-Bed Female Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Double Room with Balcony,1 double bed,2,0
 U.R.D.Ki Hostel,Bed in 4-Bed Dormitory Room,1 bunk bed,1,0
+Candolim Glitter Sand,Budget Triple Room,1 double bed   and    2 futon beds,3,2
+Candolim Glitter Sand,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,8,4
+Candolim Glitter Sand,One-Bedroom Apartment,Bedroom 1:   1 large double bed   and  4 futon beds     Living room:   1 sofa bed,5,2
+Candolim Glitter Sand,Family Room with Balcony,1 large double bed   and    3 futon beds,4,2
+Candolim Glitter Sand,Quadruple Room with Balcony,1 large double bed   and    2 futon beds,4,2
 Anand Yoga Village,Deluxe Double or Twin Room with Balcony,2 single beds,2,0
 Anand Yoga Village,Deluxe Triple Room,3 single beds,3,0
 Anand Yoga Village,Mixed Dormitory Room,3 single beds,3,0
 Anand Yoga Village,Female Dormitory Room,3 single beds,3,0
-Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
-Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
-Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
-MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
-MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
-MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
-Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,1
-Aurum Resorts,Classic Cottage,1 double bed,3,1
-Aurum Resorts,Cottage with Pool View,1 double bed,3,1
 La Gracia Resort,Deluxe Double Room,1 extra-large double bed,3,1
 La Gracia Resort,Executive Room with Pool View,1 extra-large double bed,3,1
 La Gracia Resort,Premium Room,1 extra-large double bed,3,1
 La Gracia Resort,King Room with Pool View,1 large double bed,2,1
 "Resort The Lohias, Goa Candolim",Deluxe Double Room,1 double bed,3,1
 "Resort The Lohias, Goa Candolim",Deluxe Twin Room,2 single beds,3,1
+Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
+"Verandah - A Beautiful Story, Near Anjuna Beach",Suite with Balcony,1 large double bed,3,1
 Nomada Cowork Resort,Cottage with Garden View,1 large double bed,2,0
 Nomada Cowork Resort,King Room with Mountain View,1 large double bed,2,0
 Nomada Cowork Resort,Double Room with Garden View,1 large double bed,2,0
-Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
+De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
+De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
+Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
+Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
+Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
+Zone Connect Goa,Standard Double Room,1 double bed,2,2
+Zone Connect Goa,Deluxe Double or Twin Room,1 large double bed,2,2
+Zone Connect Goa,Deluxe Family Room,2 single beds   and    1 large double bed,4,2
+Zone Connect Goa,Deluxe Queen Suite,1 large double bed,2,2
 Nilaya Hermitage, Private Luxury Tent,1 large double bed,2,0
 Nilaya Hermitage,Queen Room with Balcony,1 large double bed,2,0
 Nilaya Hermitage,King Room with Balcony,1 extra-large double bed,2,0
-Bellagio Rezidencia,One-Bedroom Apartment,1 large double bed,3,2
-Bellagio Rezidencia,Apartment with Balcony,1 large double bed,3,2
-Areia De Goa - Sunset By Leela Homes,Two-Bedroom Apartment,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Living room:   1 sofa bed,6,2
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,4,3
-Aarju Luxurious Wave,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,6,5
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,8,7
-Aarju Luxurious Wave,Apartment with Garden View,Bedroom 1:   1 double bed   and  1 futon bed     Bedroom 2:   1 double bed,5,0
-Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
-Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
-III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
-4BHK SPARKLING APARTMENT NEAR BEACH POOL & BAR 2bhkX2,Apartment with Balcony,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed      Living room:   2 sofa beds,10,2
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
+MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
+MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
+MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
+Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,0
+Aurum Resorts,Classic Cottage,1 double bed,3,0
+Aurum Resorts,Cottage with Pool View,1 double bed,3,0
 Morii by the sea,Villa,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed,10,0
 Morii by the sea,Villa - Beach Front,Bedroom 1:   1 extra-large double bed   and  1 sofa bed      Bedroom 2:   1 extra-large double bed,4,0
 Morii by the sea,Deluxe Villa,1 extra-large double bed,2,0
 Morii by the sea,Villa with Sea View,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,2,0
-Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
-Casa Aluizio,Suite with Garden View,1 double bed,2,1
-Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
-Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
-The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
-The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
+Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
+Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
+JM Vista Suites,Junior Suite,1 double bed,2,1
+III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
+Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
 Siolim Holiday Apartments,One-Bedroom Apartment,Bedroom 1:   2 single beds   and  1 large double bed      Living room:   1 sofa bed,5,2
 Siolim Holiday Apartments,Studio Apartment,2 single beds   and  1 large double bed,4,2
 Siolim Holiday Apartments,Superior Apartment,Bedroom 1:   1 single bed   and  1 extra-large double bed      Living room:   1 sofa bed,2,1
 Siolim Holiday Apartments,Two-Bedroom Villa,Bedroom 1:   2 extra-large double beds      Bedroom 2:   2 extra-large double beds      Living room:   1 sofa bed      Living room:   1 sofa bed,8,4
-Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
+The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
+The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
+juSTa Morjim Beach Resort Goa,Superior King Room ,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Double Room,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Deluxe Room ,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Suite,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,0
+Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
+Casa Aluizio,Suite with Garden View,1 double bed,2,1
+Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
+Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
+Alvorada Resort Goa,Superior Double or Twin Room with Pool View,1 large double bed,2,0
+Alvorada Resort Goa,Superior Double or Twin Room with Terrace,1 extra-large double bed,2,0
+U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
 Candolim Glitter Sand,Budget Triple Room,1 double bed   and    2 futon beds,3,2
 Candolim Glitter Sand,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,8,4
 Candolim Glitter Sand,One-Bedroom Apartment,Bedroom 1:   1 large double bed   and  4 futon beds     Living room:   1 sofa bed,5,2
 Candolim Glitter Sand,Family Room with Balcony,1 large double bed   and    3 futon beds,4,2
 Candolim Glitter Sand,Quadruple Room with Balcony,1 large double bed   and    2 futon beds,4,2
+Anand Yoga Village,Deluxe Double or Twin Room with Balcony,2 single beds,2,0
+Anand Yoga Village,Deluxe Triple Room,3 single beds,3,0
+Anand Yoga Village,Mixed Dormitory Room,3 single beds,3,0
+Anand Yoga Village,Female Dormitory Room,3 single beds,3,0
+La Gracia Resort,Deluxe Double Room,1 extra-large double bed,3,1
+La Gracia Resort,Executive Room with Pool View,1 extra-large double bed,3,1
+La Gracia Resort,Premium Room,1 extra-large double bed,3,1
+La Gracia Resort,King Room with Pool View,1 large double bed,2,1
+"Resort The Lohias, Goa Candolim",Deluxe Double Room,1 double bed,3,1
+"Resort The Lohias, Goa Candolim",Deluxe Twin Room,2 single beds,3,1
+Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
+"Verandah - A Beautiful Story, Near Anjuna Beach",Suite with Balcony,1 large double bed,3,1
+Nomada Cowork Resort,Cottage with Garden View,1 large double bed,2,0
+Nomada Cowork Resort,King Room with Mountain View,1 large double bed,2,0
+Nomada Cowork Resort,Double Room with Garden View,1 large double bed,2,0
+De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
+De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
+Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
+Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
+Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
+Zone Connect Goa,Standard Double Room,1 double bed,2,2
+Zone Connect Goa,Deluxe Double or Twin Room,1 large double bed,2,2
+Zone Connect Goa,Deluxe Family Room,2 single beds   and    1 large double bed,4,2
+Zone Connect Goa,Deluxe Queen Suite,1 large double bed,2,2
+Nilaya Hermitage, Private Luxury Tent,1 large double bed,2,0
+Nilaya Hermitage,Queen Room with Balcony,1 large double bed,2,0
+Nilaya Hermitage,King Room with Balcony,1 extra-large double bed,2,0
+MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
+MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
+MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
+Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,0
+Aurum Resorts,Classic Cottage,1 double bed,3,0
+Aurum Resorts,Cottage with Pool View,1 double bed,3,0
+Morii by the sea,Villa,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed,10,0
+Morii by the sea,Villa - Beach Front,Bedroom 1:   1 extra-large double bed   and  1 sofa bed      Bedroom 2:   1 extra-large double bed,4,0
+Morii by the sea,Deluxe Villa,1 extra-large double bed,2,0
+Morii by the sea,Villa with Sea View,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,2,0
+Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
+Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
+JM Vista Suites,Junior Suite,1 double bed,2,1
+III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
+Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
+Siolim Holiday Apartments,One-Bedroom Apartment,Bedroom 1:   2 single beds   and  1 large double bed      Living room:   1 sofa bed,5,2
+Siolim Holiday Apartments,Studio Apartment,2 single beds   and  1 large double bed,4,2
+Siolim Holiday Apartments,Superior Apartment,Bedroom 1:   1 single bed   and  1 extra-large double bed      Living room:   1 sofa bed,2,1
+Siolim Holiday Apartments,Two-Bedroom Villa,Bedroom 1:   2 extra-large double beds      Bedroom 2:   2 extra-large double beds      Living room:   1 sofa bed      Living room:   1 sofa bed,8,4
+The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
+The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
+juSTa Morjim Beach Resort Goa,Superior King Room ,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Double Room,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Deluxe Room ,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Suite,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,0
+Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
+Casa Aluizio,Suite with Garden View,1 double bed,2,1
+Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
+Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
+Alvorada Resort Goa,Superior Double or Twin Room with Pool View,1 large double bed,2,0
+Alvorada Resort Goa,Superior Double or Twin Room with Terrace,1 extra-large double bed,2,0
 U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Double Room,1 double bed,2,0
 U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Bed in 4-Bed Female Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Double Room with Balcony,1 double bed,2,0
 U.R.D.Ki Hostel,Bed in 4-Bed Dormitory Room,1 bunk bed,1,0
+Candolim Glitter Sand,Budget Triple Room,1 double bed   and    2 futon beds,3,2
+Candolim Glitter Sand,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,8,4
+Candolim Glitter Sand,One-Bedroom Apartment,Bedroom 1:   1 large double bed   and  4 futon beds     Living room:   1 sofa bed,5,2
+Candolim Glitter Sand,Family Room with Balcony,1 large double bed   and    3 futon beds,4,2
+Candolim Glitter Sand,Quadruple Room with Balcony,1 large double bed   and    2 futon beds,4,2
 Anand Yoga Village,Deluxe Double or Twin Room with Balcony,2 single beds,2,0
 Anand Yoga Village,Deluxe Triple Room,3 single beds,3,0
 Anand Yoga Village,Mixed Dormitory Room,3 single beds,3,0
 Anand Yoga Village,Female Dormitory Room,3 single beds,3,0
-Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
-Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
-Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
-MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
-MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
-MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
-Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,1
-Aurum Resorts,Classic Cottage,1 double bed,3,1
-Aurum Resorts,Cottage with Pool View,1 double bed,3,1
 La Gracia Resort,Deluxe Double Room,1 extra-large double bed,3,1
 La Gracia Resort,Executive Room with Pool View,1 extra-large double bed,3,1
 La Gracia Resort,Premium Room,1 extra-large double bed,3,1
 La Gracia Resort,King Room with Pool View,1 large double bed,2,1
 "Resort The Lohias, Goa Candolim",Deluxe Double Room,1 double bed,3,1
 "Resort The Lohias, Goa Candolim",Deluxe Twin Room,2 single beds,3,1
+Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
+"Verandah - A Beautiful Story, Near Anjuna Beach",Suite with Balcony,1 large double bed,3,1
 Nomada Cowork Resort,Cottage with Garden View,1 large double bed,2,0
 Nomada Cowork Resort,King Room with Mountain View,1 large double bed,2,0
 Nomada Cowork Resort,Double Room with Garden View,1 large double bed,2,0
-Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
+De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
+De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
+Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
+Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
+Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
+Zone Connect Goa,Standard Double Room,1 double bed,2,2
+Zone Connect Goa,Deluxe Double or Twin Room,1 large double bed,2,2
+Zone Connect Goa,Deluxe Family Room,2 single beds   and    1 large double bed,4,2
+Zone Connect Goa,Deluxe Queen Suite,1 large double bed,2,2
 Nilaya Hermitage, Private Luxury Tent,1 large double bed,2,0
 Nilaya Hermitage,Queen Room with Balcony,1 large double bed,2,0
 Nilaya Hermitage,King Room with Balcony,1 extra-large double bed,2,0
-Bellagio Rezidencia,One-Bedroom Apartment,1 large double bed,3,2
-Bellagio Rezidencia,Apartment with Balcony,1 large double bed,3,2
-Areia De Goa - Sunset By Leela Homes,Two-Bedroom Apartment,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Living room:   1 sofa bed,6,2
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,4,3
-Aarju Luxurious Wave,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,6,5
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,8,7
-Aarju Luxurious Wave,Apartment with Garden View,Bedroom 1:   1 double bed   and  1 futon bed     Bedroom 2:   1 double bed,5,0
-Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
-Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
-III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
-4BHK SPARKLING APARTMENT NEAR BEACH POOL & BAR 2bhkX2,Apartment with Balcony,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed      Living room:   2 sofa beds,10,2
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
+MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
+MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
+MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
+Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,0
+Aurum Resorts,Classic Cottage,1 double bed,3,0
+Aurum Resorts,Cottage with Pool View,1 double bed,3,0
 Morii by the sea,Villa,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed,10,0
 Morii by the sea,Villa - Beach Front,Bedroom 1:   1 extra-large double bed   and  1 sofa bed      Bedroom 2:   1 extra-large double bed,4,0
 Morii by the sea,Deluxe Villa,1 extra-large double bed,2,0
 Morii by the sea,Villa with Sea View,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,2,0
-Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
-Casa Aluizio,Suite with Garden View,1 double bed,2,1
-Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
-Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
-The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
-The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
+Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
+Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
+JM Vista Suites,Junior Suite,1 double bed,2,1
+III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
+Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
 Siolim Holiday Apartments,One-Bedroom Apartment,Bedroom 1:   2 single beds   and  1 large double bed      Living room:   1 sofa bed,5,2
 Siolim Holiday Apartments,Studio Apartment,2 single beds   and  1 large double bed,4,2
 Siolim Holiday Apartments,Superior Apartment,Bedroom 1:   1 single bed   and  1 extra-large double bed      Living room:   1 sofa bed,2,1
 Siolim Holiday Apartments,Two-Bedroom Villa,Bedroom 1:   2 extra-large double beds      Bedroom 2:   2 extra-large double beds      Living room:   1 sofa bed      Living room:   1 sofa bed,8,4
-Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
-Candolim Glitter Sand,Budget Triple Room,1 double bed   and    2 futon beds,3,2
-Candolim Glitter Sand,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,8,4
-Candolim Glitter Sand,One-Bedroom Apartment,Bedroom 1:   1 large double bed   and  4 futon beds     Living room:   1 sofa bed,5,2
-Candolim Glitter Sand,Family Room with Balcony,1 large double bed   and    3 futon beds,4,2
-Candolim Glitter Sand,Quadruple Room with Balcony,1 large double bed   and    2 futon beds,4,2
+The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
+The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
+juSTa Morjim Beach Resort Goa,Superior King Room ,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Double Room,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Deluxe Room ,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Suite,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,0
+Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
+Casa Aluizio,Suite with Garden View,1 double bed,2,1
+Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
+Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
+Alvorada Resort Goa,Superior Double or Twin Room with Pool View,1 large double bed,2,0
+Alvorada Resort Goa,Superior Double or Twin Room with Terrace,1 extra-large double bed,2,0
 U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Double Room,1 double bed,2,0
 U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Bed in 4-Bed Female Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Double Room with Balcony,1 double bed,2,0
 U.R.D.Ki Hostel,Bed in 4-Bed Dormitory Room,1 bunk bed,1,0
+Candolim Glitter Sand,Budget Triple Room,1 double bed   and    2 futon beds,3,2
+Candolim Glitter Sand,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,8,4
+Candolim Glitter Sand,One-Bedroom Apartment,Bedroom 1:   1 large double bed   and  4 futon beds     Living room:   1 sofa bed,5,2
+Candolim Glitter Sand,Family Room with Balcony,1 large double bed   and    3 futon beds,4,2
+Candolim Glitter Sand,Quadruple Room with Balcony,1 large double bed   and    2 futon beds,4,2
 Anand Yoga Village,Deluxe Double or Twin Room with Balcony,2 single beds,2,0
 Anand Yoga Village,Deluxe Triple Room,3 single beds,3,0
 Anand Yoga Village,Mixed Dormitory Room,3 single beds,3,0
 Anand Yoga Village,Female Dormitory Room,3 single beds,3,0
-Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
-Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
-Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
-MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
-MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
-MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
-Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,1
-Aurum Resorts,Classic Cottage,1 double bed,3,1
-Aurum Resorts,Cottage with Pool View,1 double bed,3,1
 La Gracia Resort,Deluxe Double Room,1 extra-large double bed,3,1
 La Gracia Resort,Executive Room with Pool View,1 extra-large double bed,3,1
 La Gracia Resort,Premium Room,1 extra-large double bed,3,1
 La Gracia Resort,King Room with Pool View,1 large double bed,2,1
 "Resort The Lohias, Goa Candolim",Deluxe Double Room,1 double bed,3,1
 "Resort The Lohias, Goa Candolim",Deluxe Twin Room,2 single beds,3,1
+Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
+"Verandah - A Beautiful Story, Near Anjuna Beach",Suite with Balcony,1 large double bed,3,1
 Nomada Cowork Resort,Cottage with Garden View,1 large double bed,2,0
 Nomada Cowork Resort,King Room with Mountain View,1 large double bed,2,0
 Nomada Cowork Resort,Double Room with Garden View,1 large double bed,2,0
-Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
+De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
+De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
+Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
+Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
+Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
+Zone Connect Goa,Standard Double Room,1 double bed,2,2
+Zone Connect Goa,Deluxe Double or Twin Room,1 large double bed,2,2
+Zone Connect Goa,Deluxe Family Room,2 single beds   and    1 large double bed,4,2
+Zone Connect Goa,Deluxe Queen Suite,1 large double bed,2,2
 Nilaya Hermitage, Private Luxury Tent,1 large double bed,2,0
 Nilaya Hermitage,Queen Room with Balcony,1 large double bed,2,0
 Nilaya Hermitage,King Room with Balcony,1 extra-large double bed,2,0
-Bellagio Rezidencia,One-Bedroom Apartment,1 large double bed,3,2
-Bellagio Rezidencia,Apartment with Balcony,1 large double bed,3,2
-Areia De Goa - Sunset By Leela Homes,Two-Bedroom Apartment,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Living room:   1 sofa bed,6,2
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,4,3
-Aarju Luxurious Wave,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,6,5
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,8,7
-Aarju Luxurious Wave,Apartment with Garden View,Bedroom 1:   1 double bed   and  1 futon bed     Bedroom 2:   1 double bed,5,0
-Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
-Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
-III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
-4BHK SPARKLING APARTMENT NEAR BEACH POOL & BAR 2bhkX2,Apartment with Balcony,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed      Living room:   2 sofa beds,10,2
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
+MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
+MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
+MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
+Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,0
+Aurum Resorts,Classic Cottage,1 double bed,3,0
+Aurum Resorts,Cottage with Pool View,1 double bed,3,0
 Morii by the sea,Villa,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed,10,0
 Morii by the sea,Villa - Beach Front,Bedroom 1:   1 extra-large double bed   and  1 sofa bed      Bedroom 2:   1 extra-large double bed,4,0
 Morii by the sea,Deluxe Villa,1 extra-large double bed,2,0
 Morii by the sea,Villa with Sea View,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,2,0
-Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
-Casa Aluizio,Suite with Garden View,1 double bed,2,1
-Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
-Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
-The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
-The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
+Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
+Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
+JM Vista Suites,Junior Suite,1 double bed,2,1
+III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
+Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
 Siolim Holiday Apartments,One-Bedroom Apartment,Bedroom 1:   2 single beds   and  1 large double bed      Living room:   1 sofa bed,5,2
 Siolim Holiday Apartments,Studio Apartment,2 single beds   and  1 large double bed,4,2
 Siolim Holiday Apartments,Superior Apartment,Bedroom 1:   1 single bed   and  1 extra-large double bed      Living room:   1 sofa bed,2,1
 Siolim Holiday Apartments,Two-Bedroom Villa,Bedroom 1:   2 extra-large double beds      Bedroom 2:   2 extra-large double beds      Living room:   1 sofa bed      Living room:   1 sofa bed,8,4
-Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
-Candolim Glitter Sand,Budget Triple Room,1 double bed   and    2 futon beds,3,2
-Candolim Glitter Sand,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,8,4
-Candolim Glitter Sand,One-Bedroom Apartment,Bedroom 1:   1 large double bed   and  4 futon beds     Living room:   1 sofa bed,5,2
-Candolim Glitter Sand,Family Room with Balcony,1 large double bed   and    3 futon beds,4,2
-Candolim Glitter Sand,Quadruple Room with Balcony,1 large double bed   and    2 futon beds,4,2
+The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
+The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
+juSTa Morjim Beach Resort Goa,Superior King Room ,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Double Room,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Deluxe Room ,1 extra-large double bed,2,0
+juSTa Morjim Beach Resort Goa,Suite,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,0
+Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
+Casa Aluizio,Suite with Garden View,1 double bed,2,1
+Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
+Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
+Alvorada Resort Goa,Superior Double or Twin Room with Pool View,1 large double bed,2,0
+Alvorada Resort Goa,Superior Double or Twin Room with Terrace,1 extra-large double bed,2,0
 U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Double Room,1 double bed,2,0
 U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Bed in 4-Bed Female Dormitory Room,1 bunk bed,1,0
 U.R.D.Ki Hostel,Double Room with Balcony,1 double bed,2,0
 U.R.D.Ki Hostel,Bed in 4-Bed Dormitory Room,1 bunk bed,1,0
-Anand Yoga Village,Deluxe Double or Twin Room with Balcony,2 single beds,2,0
-Anand Yoga Village,Deluxe Triple Room,3 single beds,3,0
-Anand Yoga Village,Mixed Dormitory Room,3 single beds,3,0
-Anand Yoga Village,Female Dormitory Room,3 single beds,3,0
-Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
-Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
-Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
-MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
-MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
-MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
-Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,1
-Aurum Resorts,Classic Cottage,1 double bed,3,1
-Aurum Resorts,Cottage with Pool View,1 double bed,3,1
-La Gracia Resort,Deluxe Double Room,1 extra-large double bed,3,1
-La Gracia Resort,Executive Room with Pool View,1 extra-large double bed,3,1
-La Gracia Resort,Premium Room,1 extra-large double bed,3,1
-La Gracia Resort,King Room with Pool View,1 large double bed,2,1
-"Resort The Lohias, Goa Candolim",Deluxe Double Room,1 double bed,3,1
-"Resort The Lohias, Goa Candolim",Deluxe Twin Room,2 single beds,3,1
-Nomada Cowork Resort,Cottage with Garden View,1 large double bed,2,0
-Nomada Cowork Resort,King Room with Mountain View,1 large double bed,2,0
-Nomada Cowork Resort,Double Room with Garden View,1 large double bed,2,0
-Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
-Nilaya Hermitage, Private Luxury Tent,1 large double bed,2,0
-Nilaya Hermitage,Queen Room with Balcony,1 large double bed,2,0
-Nilaya Hermitage,King Room with Balcony,1 extra-large double bed,2,0
-Bellagio Rezidencia,One-Bedroom Apartment,1 large double bed,3,2
-Bellagio Rezidencia,Apartment with Balcony,1 large double bed,3,2
-Areia De Goa - Sunset By Leela Homes,Two-Bedroom Apartment,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Living room:   1 sofa bed,6,2
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,4,3
-Aarju Luxurious Wave,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,6,5
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,8,7
-Aarju Luxurious Wave,Apartment with Garden View,Bedroom 1:   1 double bed   and  1 futon bed     Bedroom 2:   1 double bed,5,0
-Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
-Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
-III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
-4BHK SPARKLING APARTMENT NEAR BEACH POOL & BAR 2bhkX2,Apartment with Balcony,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed      Living room:   2 sofa beds,10,2
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-Morii by the sea,Villa,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed,10,0
-Morii by the sea,Villa - Beach Front,Bedroom 1:   1 extra-large double bed   and  1 sofa bed      Bedroom 2:   1 extra-large double bed,4,0
-Morii by the sea,Deluxe Villa,1 extra-large double bed,2,0
-Morii by the sea,Villa with Sea View,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,2,0
-Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
-Casa Aluizio,Suite with Garden View,1 double bed,2,1
-Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
-Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
-The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
-The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
-Siolim Holiday Apartments,One-Bedroom Apartment,Bedroom 1:   2 single beds   and  1 large double bed      Living room:   1 sofa bed,5,2
-Siolim Holiday Apartments,Studio Apartment,2 single beds   and  1 large double bed,4,2
-Siolim Holiday Apartments,Superior Apartment,Bedroom 1:   1 single bed   and  1 extra-large double bed      Living room:   1 sofa bed,2,1
-Siolim Holiday Apartments,Two-Bedroom Villa,Bedroom 1:   2 extra-large double beds      Bedroom 2:   2 extra-large double beds      Living room:   1 sofa bed      Living room:   1 sofa bed,8,4
-Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
 Candolim Glitter Sand,Budget Triple Room,1 double bed   and    2 futon beds,3,2
 Candolim Glitter Sand,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,8,4
 Candolim Glitter Sand,One-Bedroom Apartment,Bedroom 1:   1 large double bed   and  4 futon beds     Living room:   1 sofa bed,5,2
 Candolim Glitter Sand,Family Room with Balcony,1 large double bed   and    3 futon beds,4,2
 Candolim Glitter Sand,Quadruple Room with Balcony,1 large double bed   and    2 futon beds,4,2
-U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
-U.R.D.Ki Hostel,Double Room,1 double bed,2,0
-U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
-U.R.D.Ki Hostel,Bed in 4-Bed Female Dormitory Room,1 bunk bed,1,0
-U.R.D.Ki Hostel,Double Room with Balcony,1 double bed,2,0
-U.R.D.Ki Hostel,Bed in 4-Bed Dormitory Room,1 bunk bed,1,0
 Anand Yoga Village,Deluxe Double or Twin Room with Balcony,2 single beds,2,0
 Anand Yoga Village,Deluxe Triple Room,3 single beds,3,0
 Anand Yoga Village,Mixed Dormitory Room,3 single beds,3,0
 Anand Yoga Village,Female Dormitory Room,3 single beds,3,0
-Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
-Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
-Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
-MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
-MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
-MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
-Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,1
-Aurum Resorts,Classic Cottage,1 double bed,3,1
-Aurum Resorts,Cottage with Pool View,1 double bed,3,1
 La Gracia Resort,Deluxe Double Room,1 extra-large double bed,3,1
 La Gracia Resort,Executive Room with Pool View,1 extra-large double bed,3,1
 La Gracia Resort,Premium Room,1 extra-large double bed,3,1
 La Gracia Resort,King Room with Pool View,1 large double bed,2,1
 "Resort The Lohias, Goa Candolim",Deluxe Double Room,1 double bed,3,1
 "Resort The Lohias, Goa Candolim",Deluxe Twin Room,2 single beds,3,1
+Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
+"Verandah - A Beautiful Story, Near Anjuna Beach",Suite with Balcony,1 large double bed,3,1
 Nomada Cowork Resort,Cottage with Garden View,1 large double bed,2,0
 Nomada Cowork Resort,King Room with Mountain View,1 large double bed,2,0
 Nomada Cowork Resort,Double Room with Garden View,1 large double bed,2,0
-Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
-Nilaya Hermitage, Private Luxury Tent,1 large double bed,2,0
-Nilaya Hermitage,Queen Room with Balcony,1 large double bed,2,0
-Nilaya Hermitage,King Room with Balcony,1 extra-large double bed,2,0
-Bellagio Rezidencia,One-Bedroom Apartment,1 large double bed,3,2
-Bellagio Rezidencia,Apartment with Balcony,1 large double bed,3,2
-Areia De Goa - Sunset By Leela Homes,Two-Bedroom Apartment,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Living room:   1 sofa bed,6,2
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,4,3
-Aarju Luxurious Wave,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,6,5
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,8,7
-Aarju Luxurious Wave,Apartment with Garden View,Bedroom 1:   1 double bed   and  1 futon bed     Bedroom 2:   1 double bed,5,0
-Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
-Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
-III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
-4BHK SPARKLING APARTMENT NEAR BEACH POOL & BAR 2bhkX2,Apartment with Balcony,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed      Living room:   2 sofa beds,10,2
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-Morii by the sea,Villa,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed,10,0
-Morii by the sea,Villa - Beach Front,Bedroom 1:   1 extra-large double bed   and  1 sofa bed      Bedroom 2:   1 extra-large double bed,4,0
-Morii by the sea,Deluxe Villa,1 extra-large double bed,2,0
-Morii by the sea,Villa with Sea View,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,2,0
-Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
-Casa Aluizio,Suite with Garden View,1 double bed,2,1
-Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
-Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
-The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
-The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
-Siolim Holiday Apartments,One-Bedroom Apartment,Bedroom 1:   2 single beds   and  1 large double bed      Living room:   1 sofa bed,5,2
-Siolim Holiday Apartments,Studio Apartment,2 single beds   and  1 large double bed,4,2
-Siolim Holiday Apartments,Superior Apartment,Bedroom 1:   1 single bed   and  1 extra-large double bed      Living room:   1 sofa bed,2,1
-Siolim Holiday Apartments,Two-Bedroom Villa,Bedroom 1:   2 extra-large double beds      Bedroom 2:   2 extra-large double beds      Living room:   1 sofa bed      Living room:   1 sofa bed,8,4
-Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
-Candolim Glitter Sand,Budget Triple Room,1 double bed   and    2 futon beds,3,2
-Candolim Glitter Sand,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,8,4
-Candolim Glitter Sand,One-Bedroom Apartment,Bedroom 1:   1 large double bed   and  4 futon beds     Living room:   1 sofa bed,5,2
-Candolim Glitter Sand,Family Room with Balcony,1 large double bed   and    3 futon beds,4,2
-Candolim Glitter Sand,Quadruple Room with Balcony,1 large double bed   and    2 futon beds,4,2
-U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
-U.R.D.Ki Hostel,Double Room,1 double bed,2,0
-U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
-U.R.D.Ki Hostel,Bed in 4-Bed Female Dormitory Room,1 bunk bed,1,0
-U.R.D.Ki Hostel,Double Room with Balcony,1 double bed,2,0
-U.R.D.Ki Hostel,Bed in 4-Bed Dormitory Room,1 bunk bed,1,0
-Anand Yoga Village,Deluxe Double or Twin Room with Balcony,2 single beds,2,0
-Anand Yoga Village,Deluxe Triple Room,3 single beds,3,0
-Anand Yoga Village,Mixed Dormitory Room,3 single beds,3,0
-Anand Yoga Village,Female Dormitory Room,3 single beds,3,0
+De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
+De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
 Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
 Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
 Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
-MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
-MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
-MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
-Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,1
-Aurum Resorts,Classic Cottage,1 double bed,3,1
-Aurum Resorts,Cottage with Pool View,1 double bed,3,1
-La Gracia Resort,Deluxe Double Room,1 extra-large double bed,3,1
-La Gracia Resort,Executive Room with Pool View,1 extra-large double bed,3,1
-La Gracia Resort,Premium Room,1 extra-large double bed,3,1
-La Gracia Resort,King Room with Pool View,1 large double bed,2,1
-"Resort The Lohias, Goa Candolim",Deluxe Double Room,1 double bed,3,1
-"Resort The Lohias, Goa Candolim",Deluxe Twin Room,2 single beds,3,1
-Nomada Cowork Resort,Cottage with Garden View,1 large double bed,2,0
-Nomada Cowork Resort,King Room with Mountain View,1 large double bed,2,0
-Nomada Cowork Resort,Double Room with Garden View,1 large double bed,2,0
-Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
+Zone Connect Goa,Standard Double Room,1 double bed,2,2
+Zone Connect Goa,Deluxe Double or Twin Room,1 large double bed,2,2
+Zone Connect Goa,Deluxe Family Room,2 single beds   and    1 large double bed,4,2
+Zone Connect Goa,Deluxe Queen Suite,1 large double bed,2,2
 Nilaya Hermitage, Private Luxury Tent,1 large double bed,2,0
 Nilaya Hermitage,Queen Room with Balcony,1 large double bed,2,0
 Nilaya Hermitage,King Room with Balcony,1 extra-large double bed,2,0
-Bellagio Rezidencia,One-Bedroom Apartment,1 large double bed,3,2
-Bellagio Rezidencia,Apartment with Balcony,1 large double bed,3,2
-Areia De Goa - Sunset By Leela Homes,Two-Bedroom Apartment,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Living room:   1 sofa bed,6,2
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,4,3
-Aarju Luxurious Wave,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,6,5
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,8,7
-Aarju Luxurious Wave,Apartment with Garden View,Bedroom 1:   1 double bed   and  1 futon bed     Bedroom 2:   1 double bed,5,0
-Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
-Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
-III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
-4BHK SPARKLING APARTMENT NEAR BEACH POOL & BAR 2bhkX2,Apartment with Balcony,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed      Living room:   2 sofa beds,10,2
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
+MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
+MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
+MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
+Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,0
+Aurum Resorts,Classic Cottage,1 double bed,3,0
+Aurum Resorts,Cottage with Pool View,1 double bed,3,0
 Morii by the sea,Villa,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed,10,0
 Morii by the sea,Villa - Beach Front,Bedroom 1:   1 extra-large double bed   and  1 sofa bed      Bedroom 2:   1 extra-large double bed,4,0
 Morii by the sea,Deluxe Villa,1 extra-large double bed,2,0
 Morii by the sea,Villa with Sea View,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,2,0
-Casa Aluizio,Family Double Room,1 double bed   and    1 sofa bed,4,2
-Casa Aluizio,Suite with Garden View,1 double bed,2,1
-Casa Aluizio,Villa with Garden View,Bedroom 1:   2 double beds      Bedroom 2:   1 large double bed      Bedroom 3:   1 sofa bed      Bedroom 4:   2 extra-large double beds,12,4
-Casa Aluizio,Family Room with Garden View,1 double bed   and    1 sofa bed,4,2
-The Foothills - A Boutique Hotel,Suite with Balcony,1 extra-large double bed,3,2
-The Foothills - A Boutique Hotel,Standard Double Room,1 extra-large double bed,2,1
-Siolim Holiday Apartments,One-Bedroom Apartment,Bedroom 1:   2 single beds   and  1 large double bed      Living room:   1 sofa bed,5,2
-Siolim Holiday Apartments,Studio Apartment,2 single beds   and  1 large double bed,4,2
-Siolim Holiday Apartments,Superior Apartment,Bedroom 1:   1 single bed   and  1 extra-large double bed      Living room:   1 sofa bed,2,1
-Siolim Holiday Apartments,Two-Bedroom Villa,Bedroom 1:   2 extra-large double beds      Bedroom 2:   2 extra-large double beds      Living room:   1 sofa bed      Living room:   1 sofa bed,8,4
-Curlies Zulu Land cottages - Curlies beach shack and shiva valley - Anjuna beach,Cottage with Garden View,1 large double bed,3,1
-Candolim Glitter Sand,Budget Triple Room,1 double bed   and    2 futon beds,3,2
-Candolim Glitter Sand,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,8,4
-Candolim Glitter Sand,One-Bedroom Apartment,Bedroom 1:   1 large double bed   and  4 futon beds     Living room:   1 sofa bed,5,2
-Candolim Glitter Sand,Family Room with Balcony,1 large double bed   and    3 futon beds,4,2
-Candolim Glitter Sand,Quadruple Room with Balcony,1 large double bed   and    2 futon beds,4,2
-U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
-U.R.D.Ki Hostel,Double Room,1 double bed,2,0
-U.R.D.Ki Hostel,Bed in 6-Bed Mixed Dormitory Room,1 bunk bed,1,0
-U.R.D.Ki Hostel,Bed in 4-Bed Female Dormitory Room,1 bunk bed,1,0
-U.R.D.Ki Hostel,Double Room with Balcony,1 double bed,2,0
-U.R.D.Ki Hostel,Bed in 4-Bed Dormitory Room,1 bunk bed,1,0
-Anand Yoga Village,Deluxe Double or Twin Room with Balcony,2 single beds,2,0
-Anand Yoga Village,Deluxe Triple Room,3 single beds,3,0
-Anand Yoga Village,Mixed Dormitory Room,3 single beds,3,0
-Anand Yoga Village,Female Dormitory Room,3 single beds,3,0
-Aaria Residency,Deluxe Double Room with Balcony,1 extra-large double bed,3,1
-Aaria Residency,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,3,1
-Aaria Residency,Deluxe Room,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,King Room with Balcony,1 extra-large double bed,2,1
-De Amour - A Dreamy Getaway,Deluxe Double Room,1 extra-large double bed,2,1
-MAGPIE 2BHK Apartment with pool,Deluxe Apartment,Bedroom 1:   1 large double bed      Bedroom 2:   1 double bed,4,1
-MAGPIE 2BHK Apartment with pool,Apartment with Balcony,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed   and  1 sofa bed      Living room:   1 sofa bed,6,2
-MAGPIE 2BHK Apartment with pool,One-Bedroom Apartment,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,4,1
-Aurum Resorts,Cottage with Partial Sea View,1 double bed,3,1
-Aurum Resorts,Classic Cottage,1 double bed,3,1
-Aurum Resorts,Cottage with Pool View,1 double bed,3,1
-La Gracia Resort,Deluxe Double Room,1 extra-large double bed,3,1
-La Gracia Resort,Executive Room with Pool View,1 extra-large double bed,3,1
-La Gracia Resort,Premium Room,1 extra-large double bed,3,1
-La Gracia Resort,King Room with Pool View,1 large double bed,2,1
-"Resort The Lohias, Goa Candolim",Deluxe Double Room,1 double bed,3,1
-"Resort The Lohias, Goa Candolim",Deluxe Twin Room,2 single beds,3,1
-Nomada Cowork Resort,Cottage with Garden View,1 large double bed,2,0
-Nomada Cowork Resort,King Room with Mountain View,1 large double bed,2,0
-Nomada Cowork Resort,Double Room with Garden View,1 large double bed,2,0
-Saxony Garden Resort,Double Room with Garden View,1 double bed,3,0
-Nilaya Hermitage, Private Luxury Tent,1 large double bed,2,0
-Nilaya Hermitage,Queen Room with Balcony,1 large double bed,2,0
-Nilaya Hermitage,King Room with Balcony,1 extra-large double bed,2,0
-Bellagio Rezidencia,One-Bedroom Apartment,1 large double bed,3,2
-Bellagio Rezidencia,Apartment with Balcony,1 large double bed,3,2
-Areia De Goa - Sunset By Leela Homes,Two-Bedroom Apartment,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Living room:   1 sofa bed,6,2
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 large double bed   and  2 futon beds     Living room:   1 sofa bed,4,3
-Aarju Luxurious Wave,Two-Bedroom Apartment,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,6,5
-Aarju Luxurious Wave,Apartment with Pool View ,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed   and  1 futon bed     Living room:   1 sofa bed,8,7
-Aarju Luxurious Wave,Apartment with Garden View,Bedroom 1:   1 double bed   and  1 futon bed     Bedroom 2:   1 double bed,5,0
-Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
 Pool View Apartment - Sunshine By Leela Homes,Apartment with Pool View ,Bedroom 1:   1 extra-large double bed      Bedroom 2:   1 extra-large double bed,4,1
-III Kings Morjim,Deluxe Double Room,1 extra-large double bed,2,1
-4BHK SPARKLING APARTMENT NEAR BEACH POOL & BAR 2bhkX2,Apartment with Balcony,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed      Living room:   2 sofa beds,10,2
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  2 futon beds     Bedroom 2:   1 large double bed   and  2 futon beds     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-"Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa",Three-Bedroom Villa,Bedroom 1:   1 large double bed   and  1 futon bed     Bedroom 2:   1 large double bed   and  1 futon bed     Bedroom 3:   1 double bed      Living room:   1 sofa bed,10,4
-Morii by the sea,Villa,Bedroom 1:   1 double bed      Bedroom 2:   1 double bed      Bedroom 3:   1 double bed      Bedroom 4:   1 double bed,10,0
-Morii by the sea,Villa - Beach Front,Bedroom 1:   1 extra-large double bed   and  1 sofa bed      Bedroom 2:   1 extra-large double bed,4,0
-Morii by the sea,Deluxe Villa,1 extra-large double bed,2,0
-Morii by the sea,Villa with Sea View,Bedroom 1:   1 extra-large double bed      Living room:   1 sofa bed,2,0
+Mariners Bay Suites,Studio with Balcony,Bedroom 1:   1 double bed      Living room:   1 sofa bed,3,2
